@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Ex_01 {
     public static void main(String[] args) {
 
+        System.out.println("***** Exercicio 1 *****");
+
         // Import de Scanner
         Scanner input = new Scanner(System.in);
 
