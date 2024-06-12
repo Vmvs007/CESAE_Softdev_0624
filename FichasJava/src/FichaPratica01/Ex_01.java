@@ -12,11 +12,11 @@ public class Ex_01 {
         int num1, num2, soma;
 
         // Ler num1
-        System.out.print("Introduza um número: ");
+        System.out.print("Introduza um numero: ");
         num1 = input.nextInt();
 
         // Ler num2
-        System.out.print("Introduza outro número: ");
+        System.out.print("Introduza outro numero: ");
         num2 = input.nextInt();
 
         // Calcular a soma
