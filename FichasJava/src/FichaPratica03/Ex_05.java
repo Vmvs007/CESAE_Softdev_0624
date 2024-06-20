@@ -7,18 +7,20 @@ public class Ex_05 {
 
         Scanner input = new Scanner(System.in);
 
-        int quantidade;
+        int limite, x = 0;
         String mensagem;
 
         System.out.print("Insira a quantidade: ");
-        quantidade = input.nextInt();
+        limite = input.nextInt();
 
         System.out.print("Insira a mensagem: ");
         input.nextLine(); // Limpeza de buffer
         mensagem = input.nextLine();
 
-        System.out.println("Quantidade: " + quantidade);
-        System.out.println("Mensagem: " + mensagem);
+        while (x < limite) {
+            System.out.println(mensagem);
+            x++;
+        }
 
     }
 }
