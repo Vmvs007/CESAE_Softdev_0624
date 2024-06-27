@@ -6,12 +6,14 @@ public class Ex_15_Extra {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Pedir ao utilizador para inserir um número
+        int numero, fatorial = 1;
+
+        // Ler numero
         System.out.print("Insira um número: ");
-        int numero = input.nextInt();
+        numero = input.nextInt();
 
         // Calcular o fatorial
-        int fatorial = 1;
+
         for (int i = 1; i <= numero; i++) {
             for (int h = 0, soma = 0; h < fatorial; h++) {
                 soma += i;
