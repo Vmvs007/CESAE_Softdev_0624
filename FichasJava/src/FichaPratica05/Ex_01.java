@@ -9,7 +9,7 @@ public class Ex_01 {
         Scanner input = new Scanner(System.in);
 
         // Declarar variáveis
-        int[] vetor = new int[3];
+        int[] vetor = new int[10];
 
         // Ler vetor
         for (int i = 0; i < vetor.length; i++) {
