@@ -31,7 +31,6 @@ public class Ex_02 {
      */
 
     public static void linhaAsteriscos(int quantidadeAsteriscos) {
-
         for (int i = 0; i < quantidadeAsteriscos; i++) {
             System.out.print("*");
         }
@@ -40,14 +39,15 @@ public class Ex_02 {
     }
 
 
+
     public static void main(String[] args) {
 
-       //  linhaAsteriscos(30);
         int numeroUser = lerPositivoInteiro();
         linhaAsteriscos(numeroUser);
 
-       //  linhaAsteriscos(30);
 
     }
+
+
 
 }
