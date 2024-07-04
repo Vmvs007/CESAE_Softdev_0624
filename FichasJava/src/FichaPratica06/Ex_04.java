@@ -56,19 +56,31 @@ public class Ex_04 {
                     break;
 
                 case 4: // Perfeito ou Não Perfeito
-                    
+
+                    if(perfeito(numero)){
+                        System.out.println("Perfeito");
+                    }else{
+                        System.out.println("Não perfeito");
+                    }
+
                     break;
 
                 case 5: // Triangular ou Não Triangular
 
+                    if(triangular(numero)){
+                        System.out.println("Triangular");
+                    }else{
+                        System.out.println("Não Triangular");
+                    }
                     break;
 
                 case 6: // Trocar de Número
-
+                    System.out.print("Insira um número: ");
+                    numero = input.nextInt();
                     break;
 
                 case 7: // Sair
-
+                    System.out.println("Obrigado!!");
                     break;
 
                 default:
