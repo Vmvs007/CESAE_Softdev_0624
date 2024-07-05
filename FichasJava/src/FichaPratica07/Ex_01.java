@@ -9,7 +9,7 @@ public class Ex_01 {
 
     /**
      * Método que imprime o conteudo de um ficheiro na consola
-     * @param path Caminho para o ficheir
+     * @param path Caminho para o ficheiro
      * @throws FileNotFoundException Caso o ficheiro não exista
      */
     public static void imprimirFicheiro(String path) throws FileNotFoundException {
