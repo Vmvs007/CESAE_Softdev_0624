@@ -27,6 +27,7 @@ public class Ex_02 {
 
     /**
      * Método que imprime uma linha com x asteriscos
+     *
      * @param quantidadeAsteriscos Quantidade de Asteriscos a serem impressos
      */
 
@@ -39,15 +40,12 @@ public class Ex_02 {
     }
 
 
-
     public static void main(String[] args) {
 
         int numeroUser = lerPositivoInteiro();
         linhaAsteriscos(numeroUser);
 
-
     }
-
 
 
 }
