@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+import static FichaPratica07.Ex_01.imprimirFicheiro;
 import static FichaPratica07.Ex_07.contarLinhasFicheiro;
 
 public class Ex_09 {
@@ -46,7 +47,6 @@ public class Ex_09 {
     public static void copyright() {
         System.out.println("\uD83D\uDCBB\uD83D\uDCBB\uD83D\uDCBB Desenvolvido por: Vitor Santos \uD83D\uDCBB\uD83D\uDCBB\uD83D\uDCBB");
     }
-
 
     public static void imprimirMusicasGenero(String genero, String[][] matrizCompleta) throws FileNotFoundException {
         System.out.println("***** Músicas de " + genero + " *****");
@@ -119,7 +119,7 @@ public class Ex_09 {
             int segundosAtuais = Integer.parseInt(duracaoDividida[1]);
 
             if (minutosAtuais > minutosPretendidos) { // Estamos perante a musica maior
-            // Imprimir a musica
+                // Imprimir a musica
                 System.out.print("Nome da Música: " + matrizCompleta[linha][0]);
                 System.out.print("\t| Artista: " + matrizCompleta[linha][1]);
                 System.out.print("\t| Género: " + matrizCompleta[linha][2]);
@@ -141,6 +141,7 @@ public class Ex_09 {
 
 
     public static void menu() throws FileNotFoundException {
+        imprimirFicheiro("FicheirosFicha07/ASCII_Musica");
 
         Scanner input = new Scanner(System.in);
         int opcao = 0;
@@ -148,7 +149,7 @@ public class Ex_09 {
         String[][] matrizCompleta = lerCsvParaMatriz("FicheirosFicha07/exercicio_09.csv");
 
         do {
-            System.out.println("\n***** Programa das Músicas *****");
+            imprimirFicheiro("FicheirosFicha07/ASCII_Menu_Musicas");
             System.out.println("1. Pesquisar por músicas de um determinado género.");
             System.out.println("2. Pesquisar músicas de um determinado artista.");
             System.out.println("3. Pesquisar música com maior duração.");
@@ -160,7 +161,7 @@ public class Ex_09 {
 
             switch (opcao) {
                 case 1: // Pesquisar por músicas de um determinado género
-                    System.out.println("***** Pesquisar por músicas de um determinado género *****");
+                    imprimirFicheiro("FicheirosFicha07/ASCII_Menu_MusicasGenero");
                     System.out.print("Qual o género a pesquisar: ");
                     input.nextLine(); // Limpeza de buffer
                     String generoEscolhido = input.nextLine();
@@ -190,7 +191,7 @@ public class Ex_09 {
                     System.out.print("Segundos: ");
                     int segundos = input.nextInt();
 
-                    musicasAcimaDeDuracao(matrizCompleta,minutos,segundos);
+                    musicasAcimaDeDuracao(matrizCompleta, minutos, segundos);
                     break;
 
                 case 5:  // Número de músicas no ficheiro
@@ -213,7 +214,6 @@ public class Ex_09 {
     }
 
     public static void main(String[] args) throws FileNotFoundException {
-        System.out.println("Função main começou");
         menu();
         copyright();
 
