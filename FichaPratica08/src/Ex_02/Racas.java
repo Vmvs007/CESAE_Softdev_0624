@@ -1,0 +1,5 @@
+package Ex_02;
+
+public enum Racas {
+    PASTOR_ALEMAO,BULLDOG,GOLDEN,LABRADOR,PINCHER,CARAMELO,DALMATA
+}
