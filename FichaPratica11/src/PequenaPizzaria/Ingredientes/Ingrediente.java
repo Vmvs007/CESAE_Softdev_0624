@@ -1,4 +1,4 @@
-package PequenaPizzaria;
+package PequenaPizzaria.Ingredientes;
 
 import PequenaPizzaria.Enums.UnidadeMedida;
 

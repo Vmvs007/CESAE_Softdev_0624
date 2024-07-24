@@ -1,5 +1,7 @@
 package PequenaPizzaria;
 
+import PequenaPizzaria.Ingredientes.Ingrediente;
+
 public class IngredientePizza {
     private Ingrediente ingrediente;
     private double quantidade;

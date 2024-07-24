@@ -1,6 +1,8 @@
 package PequenaPizzaria;
 
 import PequenaPizzaria.Enums.TamanhoPizza;
+import PequenaPizzaria.Ingredientes.Base;
+import PequenaPizzaria.Ingredientes.Topping;
 
 import java.util.ArrayList;
 
@@ -28,9 +30,21 @@ public class Pizza {
      * @param ingredientePizzaNovo <b>IngredientePizza</b> a ser adicionado
      */
     public void addIngredientePizza(IngredientePizza ingredientePizzaNovo) {
-        if (this.listaIngredientes.size() < this.MAX_INGREDIENTES) {
-            this.listaIngredientes.add(ingredientePizzaNovo);
+
+        if (this.listaIngredientes.isEmpty()) { // Ainda não temos nenhum IngredientePizza
+
+            if (ingredientePizzaNovo.getIngrediente() instanceof Base) { // Só convém adicionar Base
+                this.listaIngredientes.add(ingredientePizzaNovo);
+            }
+
+        } else { // Já temos, pelo menos um IngredientePizza
+
+            if (ingredientePizzaNovo.getIngrediente() instanceof Topping && this.listaIngredientes.size() < MAX_INGREDIENTES) { // Só convém adicionar Toppings, até chegar a um max de 5 ingredientes
+                this.listaIngredientes.add(ingredientePizzaNovo);
+            }
+
         }
+
     }
 
     /**
