@@ -13,18 +13,21 @@ public class Main {
         Ingrediente pepperoni = new Ingrediente(57, "Pepperoni", UnidadeMedida.UNIDADES, 10);
         Ingrediente cebolaRoxa = new Ingrediente(59, "Cebola Roxa", UnidadeMedida.GRAMAS, 0.5);
 
-        Pizza pizza4EstacoesGrande = new Pizza(1,"Pizza 4 Estações","Inverno, Primavera, Verão, Outono",15, TamanhoPizza.GRANDE);
-        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(molhoTomate,0.2));
-        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(azeitonaPreta,20));
-        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(queijoMozzarela,200));
-        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(cogumelosFrescos,12));
-        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(pepperoni,6));
+        Pizza pizza4EstacoesGrande = new Pizza(1, "Pizza 4 Estações", "Inverno, Primavera, Verão, Outono", 15, TamanhoPizza.GRANDE);
+        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(molhoTomate, 0.2));
+        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(azeitonaPreta, 20));
+        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(queijoMozzarela, 200));
+        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(cogumelosFrescos, 12));
+        pizza4EstacoesGrande.addIngredientePizza(new IngredientePizza(pepperoni, 6));
 
 
-        Pizza pizzaQueijoFiambreMedia = new Pizza(2,"Pizza Fiambre e Queijo","Básico não falha",8,TamanhoPizza.MEDIA);
-        pizzaQueijoFiambreMedia.addIngredientePizza(new IngredientePizza(molhoTomate,0.12));
-        pizzaQueijoFiambreMedia.addIngredientePizza(new IngredientePizza(queijoMozzarela,150));
+        Pizza pizzaQueijoFiambreMedia = new Pizza(2, "Pizza Fiambre e Queijo", "Básico não falha", 8, TamanhoPizza.MEDIA);
+        pizzaQueijoFiambreMedia.addIngredientePizza(new IngredientePizza(molhoTomate, 0.1));
+        pizzaQueijoFiambreMedia.addIngredientePizza(new IngredientePizza(queijoMozzarela, 150));
 
 
+        pizza4EstacoesGrande.exibirDetalhesPizza();
+        System.out.println("\n");
+        pizzaQueijoFiambreMedia.exibirDetalhesPizza();
     }
 }

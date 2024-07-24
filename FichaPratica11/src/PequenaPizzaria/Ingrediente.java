@@ -15,4 +15,23 @@ public class Ingrediente {
         this.calorias = calorias;
     }
 
+    public int getId() {
+        return id;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public UnidadeMedida getUnidadeMedida() {
+        return unidadeMedida;
+    }
+
+    public double getCalorias() {
+        return calorias;
+    }
+
+    public void exibirDetalhesIngrediente(){
+        System.out.print("[ "+this.id+" | "+this.nome+" | "+this.unidadeMedida+" | "+this.calorias+" Kcal ]");
+    }
 }
