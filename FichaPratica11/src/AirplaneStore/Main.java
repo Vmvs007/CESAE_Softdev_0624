@@ -30,7 +30,7 @@ public class Main {
 
         AviaoCombate f22 = new AviaoCombate("US210", "F22", 2020, 500, 7, 4, 1.5, 3, 2200, 1390, 99000, "Estados Unidos", false);
         f22.addArma(Arma.BOMBAS);
-        
+
         Catalogo lojaAvioesXPTO = new Catalogo();
         lojaAvioesXPTO.comprarAviao(cessna);
         lojaAvioesXPTO.comprarAviao(gulfstream);
