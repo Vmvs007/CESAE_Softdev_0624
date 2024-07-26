@@ -27,6 +27,10 @@ public class Aviao {
         this.preco = preco;
     }
 
+    public void exibirNome(){
+        System.out.println("_________________________ "+this.modelo+" | "+this.numSerie+" _________________________");
+    }
+
     public void exibirDetalhes() {
         System.out.println("\n***** " + this.modelo + " " + this.numSerie + " *****");
         System.out.println("Dimensões - Comp. Fuselagem: " + this.compFuselagem + " m. | Env. Asas: " + this.envAsas + " m. | Alt. Cauda: " + this.altCauda + " m. | Peso: " + this.peso + " Kg.");

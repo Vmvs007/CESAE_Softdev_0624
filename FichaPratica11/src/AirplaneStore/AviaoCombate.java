@@ -29,9 +29,13 @@ public class AviaoCombate extends Aviao {
         System.out.println(this.arsenal);
     }
 
-    public void exibirDetalhesAviaoCombate() {
+    @Override
+    public void exibirDetalhes() {
         super.exibirDetalhes();
+        System.out.println("\nGrande Avião de Combate!!!!");
         System.out.println("País Origem: " + this.paisOrigem + " | Camuflagem: " + this.camuflagem);
         this.exibirArsenal();
+        this.exibirNome();
+        System.out.println();
     }
 }

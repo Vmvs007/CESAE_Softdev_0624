@@ -29,7 +29,8 @@ public class JatoParticular extends Aviao {
         System.out.println(this.instalacoes);
     }
 
-    public void exibirDetalhesJato() {
+    @Override
+    public void exibirDetalhes() {
         super.exibirDetalhes();
         System.out.println("Lotação: " + this.lotacao + " | Cap. Bagagem: " + this.capBagagem + " cm3 | Categoria: " + this.categoria);
         this.exibirInstalacoes();
