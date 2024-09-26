@@ -1,0 +1,418 @@
+2024-09-26 16:37:40:	Imprimir Música do Género: Rock
+2024-09-26 16:37:40:	-*-*- Analisar: 0-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Bohemian Rhapsody	Queen !
+2024-09-26 16:37:41:	-*-*- Analisar: 1-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 2-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Stairway to Heaven	Led Zeppelin !
+2024-09-26 16:37:41:	-*-*- Analisar: 3-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 4-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Hotel California	Eagles !
+2024-09-26 16:37:41:	-*-*- Analisar: 5-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 6-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Sweet Child O Mine	Guns N Roses !
+2024-09-26 16:37:41:	-*-*- Analisar: 7-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Like a Rolling Stone	Bob Dylan !
+2024-09-26 16:37:41:	-*-*- Analisar: 8-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 9-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 10-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 11-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Thunderstruck	AC/DC !
+2024-09-26 16:37:41:	-*-*- Analisar: 12-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Livin on a Prayer	Bon Jovi !
+2024-09-26 16:37:41:	-*-*- Analisar: 13-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 14-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 15-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 16-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Sweet Home Alabama	Lynyrd Skynyrd !
+2024-09-26 16:37:41:	-*-*- Analisar: 17-*-*-
+2024-09-26 16:37:41:	! Música encontrada: We Will Rock You	Queen !
+2024-09-26 16:37:41:	-*-*- Analisar: 18-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 19-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Highway to Hell	AC/DC !
+2024-09-26 16:37:41:	-*-*- Analisar: 20-*-*-
+2024-09-26 16:37:41:	! Música encontrada: November Rain	Guns N Roses !
+2024-09-26 16:37:41:	-*-*- Analisar: 21-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Satisfaction	The Rolling Stones !
+2024-09-26 16:37:41:	-*-*- Analisar: 22-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 23-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 24-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 25-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Another Brick in the Wall	Pink Floyd !
+2024-09-26 16:37:41:	-*-*- Analisar: 26-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Back in Black	AC/DC !
+2024-09-26 16:37:41:	-*-*- Analisar: 27-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 28-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 29-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 30-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 31-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 32-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Eye of the Tiger	Survivor !
+2024-09-26 16:37:41:	-*-*- Analisar: 33-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 34-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 35-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Paint It Black	The Rolling Stones !
+2024-09-26 16:37:41:	-*-*- Analisar: 36-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 37-*-*-
+2024-09-26 16:37:41:	! Música encontrada: The Joker	Steve Miller Band !
+2024-09-26 16:37:41:	-*-*- Analisar: 38-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Jump	Van Halen !
+2024-09-26 16:37:41:	-*-*- Analisar: 39-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 40-*-*-
+2024-09-26 16:37:41:	! Música encontrada: You Shook Me All Night Long	AC/DC !
+2024-09-26 16:37:41:	-*-*- Analisar: 41-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Dream On	Aerosmith !
+2024-09-26 16:37:41:	-*-*- Analisar: 42-*-*-
+2024-09-26 16:37:41:	-*-*- Analisar: 43-*-*-
+2024-09-26 16:37:41:	! Música encontrada: More Than a Feeling	Boston !
+2024-09-26 16:37:41:	-*-*- Analisar: 44-*-*-
+2024-09-26 16:37:41:	! Música encontrada: Rock and Roll	 Led Zeppelin !
+2024-09-26 16:37:41:	-*-*- Analisar: 45-*-*-
+2024-09-26 16:37:45:	Recebi a matriz completa
+2024-09-26 16:37:45:	______ Analisar: 0 _______
+2024-09-26 16:37:45:	Minutos atuais: 6
+2024-09-26 16:37:45:	Segundos atuais: 6
+
+2024-09-26 16:37:45:	______ Analisar: 1 _______
+2024-09-26 16:37:45:	Minutos atuais: 5
+2024-09-26 16:37:45:	Segundos atuais: 5
+
+2024-09-26 16:37:45:	______ Analisar: 2 _______
+2024-09-26 16:37:45:	Minutos atuais: 8
+2024-09-26 16:37:45:	Segundos atuais: 8
+
+2024-09-26 16:37:45:	______ Analisar: 3 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 4 _______
+2024-09-26 16:37:45:	Minutos atuais: 6
+2024-09-26 16:37:45:	Segundos atuais: 6
+
+2024-09-26 16:37:45:	______ Analisar: 5 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 6 _______
+2024-09-26 16:37:45:	Minutos atuais: 5
+2024-09-26 16:37:45:	Segundos atuais: 5
+
+2024-09-26 16:37:45:	______ Analisar: 7 _______
+2024-09-26 16:37:45:	Minutos atuais: 6
+2024-09-26 16:37:45:	Segundos atuais: 6
+
+2024-09-26 16:37:45:	______ Analisar: 8 _______
+2024-09-26 16:37:45:	Minutos atuais: 5
+2024-09-26 16:37:45:	Segundos atuais: 5
+
+2024-09-26 16:37:45:	______ Analisar: 9 _______
+2024-09-26 16:37:45:	Minutos atuais: 7
+2024-09-26 16:37:45:	Segundos atuais: 7
+
+2024-09-26 16:37:45:	______ Analisar: 10 _______
+2024-09-26 16:37:45:	Minutos atuais: 6
+2024-09-26 16:37:45:	Segundos atuais: 6
+
+2024-09-26 16:37:45:	______ Analisar: 11 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 12 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 13 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 14 _______
+2024-09-26 16:37:45:	Minutos atuais: 2
+2024-09-26 16:37:45:	Segundos atuais: 2
+
+2024-09-26 16:37:45:	______ Analisar: 15 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 16 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 17 _______
+2024-09-26 16:37:45:	Minutos atuais: 2
+2024-09-26 16:37:45:	Segundos atuais: 2
+
+2024-09-26 16:37:45:	______ Analisar: 18 _______
+2024-09-26 16:37:45:	Minutos atuais: 5
+2024-09-26 16:37:45:	Segundos atuais: 5
+
+2024-09-26 16:37:45:	______ Analisar: 19 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 20 _______
+2024-09-26 16:37:45:	Minutos atuais: 8
+2024-09-26 16:37:45:	Segundos atuais: 8
+
+2024-09-26 16:37:45:	______ Analisar: 21 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 22 _______
+2024-09-26 16:37:45:	Minutos atuais: 2
+2024-09-26 16:37:45:	Segundos atuais: 2
+
+2024-09-26 16:37:45:	______ Analisar: 23 _______
+2024-09-26 16:37:45:	Minutos atuais: 2
+2024-09-26 16:37:45:	Segundos atuais: 2
+
+2024-09-26 16:37:45:	______ Analisar: 24 _______
+2024-09-26 16:37:45:	Minutos atuais: 5
+2024-09-26 16:37:45:	Segundos atuais: 5
+
+2024-09-26 16:37:45:	______ Analisar: 25 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 26 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 27 _______
+2024-09-26 16:37:45:	Minutos atuais: 2
+2024-09-26 16:37:45:	Segundos atuais: 2
+
+2024-09-26 16:37:45:	______ Analisar: 28 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 29 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 30 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 31 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 32 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 33 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 34 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 35 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 36 _______
+2024-09-26 16:37:45:	Minutos atuais: 6
+2024-09-26 16:37:45:	Segundos atuais: 6
+
+2024-09-26 16:37:45:	______ Analisar: 37 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 38 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 39 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 40 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 41 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 42 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 43 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:45:	______ Analisar: 44 _______
+2024-09-26 16:37:45:	Minutos atuais: 3
+2024-09-26 16:37:45:	Segundos atuais: 3
+
+2024-09-26 16:37:45:	______ Analisar: 45 _______
+2024-09-26 16:37:45:	Minutos atuais: 4
+2024-09-26 16:37:45:	Segundos atuais: 4
+
+2024-09-26 16:37:51:	Estou a começar a analisar a música mais longa
+2024-09-26 16:37:51:	*** Analisar: 0 ***
+2024-09-26 16:37:51:	Nome da Música: Bohemian Rhapsody
+2024-09-26 16:37:51:	*** Analisar: 1 ***
+2024-09-26 16:37:51:	*** Analisar: 2 ***
+2024-09-26 16:37:51:	Nome da Música: Stairway to Heaven
+2024-09-26 16:37:51:	*** Analisar: 3 ***
+2024-09-26 16:37:51:	*** Analisar: 4 ***
+2024-09-26 16:37:51:	Nome da Música: Hotel California
+2024-09-26 16:37:51:	*** Analisar: 5 ***
+2024-09-26 16:37:51:	*** Analisar: 6 ***
+2024-09-26 16:37:51:	*** Analisar: 7 ***
+2024-09-26 16:37:51:	Nome da Música: Like a Rolling Stone
+2024-09-26 16:37:51:	*** Analisar: 8 ***
+2024-09-26 16:37:51:	*** Analisar: 9 ***
+2024-09-26 16:37:51:	Nome da Música: Hey Jude
+2024-09-26 16:37:51:	*** Analisar: 10 ***
+2024-09-26 16:37:51:	Nome da Música: Nothing Else Matters
+2024-09-26 16:37:51:	*** Analisar: 11 ***
+2024-09-26 16:37:51:	*** Analisar: 12 ***
+2024-09-26 16:37:51:	*** Analisar: 13 ***
+2024-09-26 16:37:51:	*** Analisar: 14 ***
+2024-09-26 16:37:51:	*** Analisar: 15 ***
+2024-09-26 16:37:51:	*** Analisar: 16 ***
+2024-09-26 16:37:51:	*** Analisar: 17 ***
+2024-09-26 16:37:51:	*** Analisar: 18 ***
+2024-09-26 16:37:51:	*** Analisar: 19 ***
+2024-09-26 16:37:51:	*** Analisar: 20 ***
+2024-09-26 16:37:51:	Nome da Música: November Rain
+2024-09-26 16:37:51:	*** Analisar: 21 ***
+2024-09-26 16:37:51:	*** Analisar: 22 ***
+2024-09-26 16:37:51:	*** Analisar: 23 ***
+2024-09-26 16:37:51:	*** Analisar: 24 ***
+2024-09-26 16:37:51:	*** Analisar: 25 ***
+2024-09-26 16:37:51:	*** Analisar: 26 ***
+2024-09-26 16:37:51:	*** Analisar: 27 ***
+2024-09-26 16:37:51:	*** Analisar: 28 ***
+2024-09-26 16:37:51:	*** Analisar: 29 ***
+2024-09-26 16:37:51:	*** Analisar: 30 ***
+2024-09-26 16:37:51:	*** Analisar: 31 ***
+2024-09-26 16:37:51:	*** Analisar: 32 ***
+2024-09-26 16:37:51:	*** Analisar: 33 ***
+2024-09-26 16:37:51:	*** Analisar: 34 ***
+2024-09-26 16:37:51:	*** Analisar: 35 ***
+2024-09-26 16:37:51:	*** Analisar: 36 ***
+2024-09-26 16:37:51:	Nome da Música: Hallelujah
+2024-09-26 16:37:51:	*** Analisar: 37 ***
+2024-09-26 16:37:51:	*** Analisar: 38 ***
+2024-09-26 16:37:51:	*** Analisar: 39 ***
+2024-09-26 16:37:51:	*** Analisar: 40 ***
+2024-09-26 16:37:51:	*** Analisar: 41 ***
+2024-09-26 16:37:51:	*** Analisar: 42 ***
+2024-09-26 16:37:51:	*** Analisar: 43 ***
+2024-09-26 16:37:51:	*** Analisar: 44 ***
+2024-09-26 16:37:51:	*** Analisar: 45 ***
+2024-09-26 16:37:56:	Imprimir Música do Género: Ballet
+2024-09-26 16:37:56:	-*-*- Analisar: 0-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 1-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 2-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 3-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 4-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 5-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 6-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 7-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 8-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 9-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 10-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 11-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 12-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 13-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 14-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 15-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 16-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 17-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 18-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 19-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 20-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 21-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 22-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 23-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 24-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 25-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 26-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 27-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 28-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 29-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 30-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 31-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 32-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 33-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 34-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 35-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 36-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 37-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 38-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 39-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 40-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 41-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 42-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 43-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 44-*-*-
+2024-09-26 16:37:56:	-*-*- Analisar: 45-*-*-
+2024-09-26 16:38:01:	Imprimir Música do Género: Pop
+2024-09-26 16:38:01:	-*-*- Analisar: 0-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 1-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Thriller	Michael Jackson !
+2024-09-26 16:38:01:	-*-*- Analisar: 2-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 3-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Imagine	John Lennon !
+2024-09-26 16:38:01:	-*-*- Analisar: 4-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 5-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Billie Jean	Michael Jackson !
+2024-09-26 16:38:01:	-*-*- Analisar: 6-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 7-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 8-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 9-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Hey Jude	The Beatles !
+2024-09-26 16:38:01:	-*-*- Analisar: 10-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 11-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 12-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 13-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Every Breath You Take	The Police !
+2024-09-26 16:38:01:	-*-*- Analisar: 14-*-*-
+2024-09-26 16:38:01:	! Música encontrada: I Want to Hold Your Hand	The Beatles !
+2024-09-26 16:38:01:	-*-*- Analisar: 15-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 16-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 17-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 18-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 19-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 20-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 21-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 22-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 23-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 24-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Piano Man	Billy Joel !
+2024-09-26 16:38:01:	-*-*- Analisar: 25-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 26-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 27-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 28-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Beat It	Michael Jackson !
+2024-09-26 16:38:01:	-*-*- Analisar: 29-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 30-*-*-
+2024-09-26 16:38:01:	! Música encontrada: The Sound of Silence	Simon & Garfunkel !
+2024-09-26 16:38:01:	-*-*- Analisar: 31-*-*-
+2024-09-26 16:38:01:	! Música encontrada: The Power of Love	Huey Lewis and the News !
+2024-09-26 16:38:01:	-*-*- Analisar: 32-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 33-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Sweet Caroline	Neil Diamond !
+2024-09-26 16:38:01:	-*-*- Analisar: 34-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Africa	Toto !
+2024-09-26 16:38:01:	-*-*- Analisar: 35-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 36-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 37-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 38-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 39-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Livin La Vida Loca	Ricky Martin !
+2024-09-26 16:38:01:	-*-*- Analisar: 40-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 41-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 42-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Tears in Heaven	Eric Clapton !
+2024-09-26 16:38:01:	-*-*- Analisar: 43-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 44-*-*-
+2024-09-26 16:38:01:	-*-*- Analisar: 45-*-*-
+2024-09-26 16:38:01:	! Música encontrada: Bad	Michael Jackson !
